@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sudden Cardiac Arrest: A Guide for Survivors, Care Givers, Family and Friends</title>
-    <link>sca-survivors-guide.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Sudden Cardiac Arrest: A Guide for Survivors, Care Givers, Family and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="sca-survivors-guide.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
